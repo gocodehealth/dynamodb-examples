@@ -1,0 +1,16 @@
+{
+  "name": "dynamodb-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "dependencies": {
+    "ramda": "^0.29.0",
+    "uuid": "^9.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
